@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProvaBonato</string>
+    <string name="number_hint">Digite o Number para discar</string>
+    <string name="btn_Ligar">Ligar</string>
+</resources>
